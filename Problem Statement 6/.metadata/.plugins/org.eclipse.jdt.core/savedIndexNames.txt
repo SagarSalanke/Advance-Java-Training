@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+P:\Java Advance Training\Problem Statement 6\.metadata\.plugins\org.eclipse.jdt.core
-2733256117.index
-1267304576.index
-1015986198.index
-3531659578.index
-1865797976.index
